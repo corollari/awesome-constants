@@ -1,9 +1,9 @@
 # Awesome Constants [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Motivation
-While writing code examples I found needing myself some placeholder values and instead of using some made up value I thought it'd be pretty cool if these placeholder values could be fun in themselves, like for example an obscure reference to a pop culture hit.
+While writing code examples I found myself needing some placeholder values, and, instead of using some made up value I thought it'd be pretty cool if these placeholder values could be fun themselves, like for example an obscure reference to a pop culture hit.
 
-So, after searching the interwebs for something similar and coming empty handed, I created to populate it with funny examples accompanied by a short explanation of their awesomeness.
+So, after searching the interwebs for something similar and coming empty handed, I created this list with the intention of populating it with awesome examples accompanied by a short explanation of their awesomeness.
 
 ---
 
